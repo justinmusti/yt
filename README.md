@@ -4,6 +4,14 @@ Hello,
 This is a repo I created to experiment and also help share my experience with others.  
 Feel free to browse and make suggestions.
 
+#### Socials
+* [Twitch](https://www.twitch.tv/justinmusti)
+* [YouTube](https://www.youtube.com/@justinmusti)
+* [Trovo](https://trovo.live/s/justinmusti)
+* [Twitter](https://twitter.com/justin_musti)
+* [Instagram](https://www.instagram.com/justinmusti/)
+* Facebook ...? No! Please, just don't
+
 
 ## Experiments/Tutorials
 
